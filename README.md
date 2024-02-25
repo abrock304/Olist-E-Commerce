@@ -20,7 +20,11 @@ All steps have a Jupyter Notebook to go along with my analysis
 I loaded my clean data as well as my Brazil json file to finish my analysis and complete my final report.
 
 Tableau Storyboard for Results: 
+
 https://public.tableau.com/app/profile/andrew.brock4777/viz/BrazilianECommerce_17083582422890/OlistAnalysis
 
-Brazil json file: 
+Brazil json file:
+
 https://coach-courses-us.s3.amazonaws.com/exercises/1077/59347/5082c97fb5f619d1ee0d774fe6f20e35/brazil_geo.json
+
+
